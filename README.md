@@ -1,21 +1,31 @@
 # bais3250-final-project
 # College ROI Analysis
 
-This is the final project for BAIS:3250 – Data Wrangling. It explores how college costs relate to post-graduation salaries.
+This project explores the relationship between college costs and post-graduation earnings using data from College Scorecard and CollegeTuitionCompare. The goal is to identify patterns between tuition prices, graduation rates, and eventual salaries.
 
-## Project Goals
+---
 
-- Analyze ROI of in-state and out-of-state tuition
-- Explore how graduation rates affect post-grad earnings
-- Use linear regression to predict salary outcomes
+## Table of Contents
 
-## Key Files
+- [`/data/`](data/) - Raw and cleaned data files
+- [`/notebooks/`](notebooks/) - Jupyter Notebooks for analysis
+- [`data_dictionary.md`](data_dictionary.md) - Describes columns in the dataset
+- [College Scorecard Data Source](https://collegescorecard.ed.gov/data/)
+- [CollegeTuitionCompare Source](https://www.collegetuitioncompare.com/)
 
-- `college_roi_checkin.ipynb`: Final notebook with all analysis
-- `final_df.csv`: Cleaned dataset
-- `presentation.pdf`: Slides used in the final check-in
+---
 
-## Next Steps
+## Repository Structure
 
-- Add more features to improve the regression model
-- Explore regional patterns and group comparisons
+| File/Folder        | Description |
+|--------------------|-------------|
+| `data/`            | Contains raw and cleaned data files |
+| `notebooks/`       | Jupyter notebooks used for analysis |
+| `data_dictionary.md` | A markdown file describing the key variables |
+| `README.md`        | This project overview |
+
+---
+
+## Project Purpose
+
+This repository is part of the final project for BAIS:3250 - Data Wrangling. It serves as a submission for the EOW14-1 GitHub checkpoint.
