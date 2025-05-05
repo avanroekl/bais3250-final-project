@@ -28,4 +28,4 @@ This project explores the relationship between college costs and post-graduation
 
 ## Project Purpose
 
-This repository is part of the final project for BAIS:3250 - Data Wrangling. It serves as a submission for the EOW14-1 GitHub checkpoint.
+This repository is part of the final project for BAIS:3250 - Data Wrangling.
