@@ -33,7 +33,7 @@ All Jupyter notebooks used for scraping, API pulls, merging, analysis, and model
 - `college_roi_machine_learning.ipynb`
 - [`notebooks/README.md`](./notebooks/README.md)
 
-### `final-report/`
+### `final report/`
 Final project deliverables.
 - `Final_Project_Report.docx`
 - [`final-report/readme.md`](./final-report/readme.md)
