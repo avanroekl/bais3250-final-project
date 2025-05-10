@@ -36,7 +36,7 @@ All Jupyter notebooks used for scraping, API pulls, merging, analysis, and model
 ### `final report/`
 Final project deliverables.
 - `Final Project Report.docx`
-- [`final report/README.md`](./finalreport/README.md)
+- [`final report/README.md`](./final_report/README.md)
 
 ### Other Files
 - [`data_dictionary.md`](./data_dictionary.md) – Description of all variables in the final dataset
