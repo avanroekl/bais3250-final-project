@@ -40,20 +40,3 @@ Final project deliverables.
 
 ### Other Files
 - [`data_dictionary.md`](./data_dictionary.md) – Description of all variables in the final dataset
-
----
-
-## Data Sources
-
-- [College Scorecard API](https://collegescorecard.ed.gov/data/documentation/)
-- [College Tuition Compare](https://www.collegetuitioncompare.com/)
-
----
-
-## Run Order
-
-1. `notebooks/scrape_college_tuition.ipynb`
-2. `notebooks/salary_data_API.ipynb`
-3. `notebooks/merge_clean_datasets.ipynb`
-4. `notebooks/college_roi_analysis.ipynb`
-5. `notebooks/college_roi_machine_learning.ipynb`
